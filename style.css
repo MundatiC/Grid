@@ -98,12 +98,14 @@ body{
   grid-column: 4;
   grid-row: 1 / span 2;
   background-color: hsl(0, 0%, 100%);
+  color: hsl(217, 19%, 35%);
   }
   
   .item4 {
   grid-column: 1;
   grid-row: 2;
   background-color: hsl(0, 0%, 100%);
+  color: hsl(217, 19%, 35%);
   }
   
   .item5 {
@@ -113,19 +115,12 @@ body{
   color: hsl(0, 0%, 100%);
   }
 
-.quotes{
-
-  float: right;
-  margin-left: 150px;
-  width: 70px;
-  height: 90px;
-  
-  }
 
 .bold{
-  font-weight: 600;
-  font-size: 15px;
+  font-weight: 900;
+  font-size: 20px;
   margin-bottom: 20px;
+  
 }
 .not_bold{
   margin-top: 10px;
